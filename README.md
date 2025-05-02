@@ -1,5 +1,8 @@
 # TC-720 Temperature Controller
 
+[![Read the Docs](https://readthedocs.org/projects/tc720/badge/?version=latest)](https://tc720.readthedocs.io/en/latest/)
+
+
 This project provides a Python package to control the TC-720 temperature controller from TE Technology Inc. The TC-720 is a versatile temperature controller capable of maintaining a fixed temperature, executing ramp/soak programs, and operating in proportional+dead band mode.
 
 ## Features
